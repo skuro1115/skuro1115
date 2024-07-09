@@ -6,11 +6,18 @@
 
 ## プログラミング
 
-### 麻雀Apps: [期待値AI，　物体検出AI，　iosApps](https://github.com/yourusername/awesome-project)
-An exciting project that solves problem X using technology Y. [iosApps ](https://github.com/yourusername/awesome-project)
+### 麻雀Apps: [期待値AI，　物体検出AI，　iosApps]()
 
-### 麻雀AI_物体検出: [SSD等](https://github.com/yourusername/cool-app)
-A cool application that does A, B, and C. [Learn more!](https://github.com/yourusername/cool-app)
+<p align="left">
+  python,
+  Swift
+</p>
+
+#### 麻雀AI_物体検出: [SSD等](https://github.com/yourusername/cool-app)
+
+
+#####[iosApps](https://github.com/yourusername/awesome-project)
+
 
 ### VRシミュレーションアプリ: [Innovative Solution](https://github.com/yourusername/innovative-solution)
 An innovative solution to tackle challenge Z. [Explore the details!](https://github.com/yourusername/innovative-solution)
