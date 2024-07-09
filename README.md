@@ -6,7 +6,7 @@
 
 # プログラミング
 
-## 麻雀Apps:　リリース済
+### 麻雀Apps:　リリース済
 
 <table>
   <caption>機能一覧</caption>
@@ -29,7 +29,7 @@
 </table>
 
 
-## VRシミュレーションアプリ: 研究室
+### VRシミュレーションアプリ: 研究室
 コードは載せれません。まだ学習段階です。
 ## LINEbot: 
 <table>
@@ -43,14 +43,14 @@
   </tbody>
 </table>
 
-## 自動化:
+### 自動化:
 python,GAS,VBA,batファイル等
 あとで記述します。
 
 # その他
 
 
-###　　緑茶販促物:[取得特許](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-115207/11/ja)
+### 緑茶販促物:[取得特許](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-115207/11/ja)
 An innovative solution to tackle challenge Z. [Explore the details!](https://github.com/yourusername/innovative-solution)
 
 
