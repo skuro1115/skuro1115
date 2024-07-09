@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm passionate about coding and constantly exploring new technologies. Here you'll find a showcase of my projects and works. Feel free to check them out!
+取り急ぎ編集中です。  
+個人やgit別アカウントで開発していたため，載せれていません。　  
+また事情によりコードを載せれない場合があります。  
 
 ## 🚀 Projects
 
