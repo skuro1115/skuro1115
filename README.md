@@ -49,11 +49,15 @@ python,GAS,VBA,batファイル等
 
 # その他
 
-### 地図測量:[]
 
-###　　緑茶販促物:[Innovative Solution](https://github.com/yourusername/innovative-solution)
+###　　緑茶販促物:[取得特許](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-115207/11/ja)
 An innovative solution to tackle challenge Z. [Explore the details!](https://github.com/yourusername/innovative-solution)
 
+
+### 地図測量:
+  測量技術
+  GPS等機器取り扱い
+  コース作成[例図](https://github.com/skuro1115/skuro1115#:~:text=7%20minutes%20ago-,%E3%82%B3%E3%83%BC%E3%82%B9%E6%9A%AB%E5%AE%9A2_All.jpg,-Add%20files%20via)
 
 
 
