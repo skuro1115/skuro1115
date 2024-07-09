@@ -14,9 +14,9 @@
     <tr><th>機能</th><th>URL</th><th>Repository</th><th>開発言語</th><th>ライブラリ</th></tr>
   </thead>
   <tbody>
-    <tr><th>AI_データ収集</th><th>無</th><th>後ほど公開予定</th><th>python</th><th>selenium, numpy, bs4, pandas</th></tr>
+    <tr><th>AI_データ収集</th><th>無</th><th>後ほど</th><th>python</th><th>selenium, numpy, bs4, pandas</th></tr>
     <tr><th>AI_期待値計算</th><th>無</th><th>公開予定なし</th><th>python</th><th>pytorch(DNN)</th></tr>
-    <tr><th>AI_物体検出</th><th>無</th><th>後ほど公開予定</th><th>python</th><th>pytorch(SSD&DNN)</th></tr>
+    <tr><th>AI_物体検出</th><th>無</th><th>後ほど</th><th>python</th><th>pytorch(SSD&DNN)</th></tr>
     <tr><th>iOSApps化</th>
       <th>
         <a href="https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80ai-%E9%85%8D%E7%89%8C%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC/id1637036872">
@@ -43,7 +43,9 @@
   </tbody>
 </table>
 
-## その他自動化: 
+## 自動化:
+python,GAS,VBA,batファイル等
+あとで記述します。
 
 # その他
 
