@@ -47,7 +47,7 @@
 python,GAS,VBA,batファイル等
 あとで記述します。
 
-# その他
+# その他プロジェクト
 
 
 ### 緑茶販促物開発:[取得特許](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-115207/11/ja)
