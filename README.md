@@ -22,7 +22,8 @@
         <a href="https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80ai-%E9%85%8D%E7%89%8C%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC/id1637036872">
           iOSApps
         </a>
-      <th>swift</th><th>UIKid, Storyboard</th>
+      </th>
+      <th>公開予定なし</th><th>swift</th><th>UIKid, Storyboard</th>
     </tr>
   </tbody>
 </table>
