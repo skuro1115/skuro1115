@@ -27,14 +27,21 @@
   </tbody>
 </table>
 
-#### 麻雀AI_物体検出: [SSD等](https://github.com/yourusername/cool-app)
 
+## VRシミュレーションアプリ: 研究室
+コードは載せれません。まだ学習段階です。
+## LINEbot: 
+<table>
+  <caption>Bot一覧</caption>
+  <thead>
+    <tr><th>名前</th><th>URL</th><th>レポジトリ</th><th>機能</th><th>利用状況</th></tr>
+  </thead>
+  <tbody>
+    <tr><th>テーマ人狼</th><th>URL</th><th>ThemeWolves</th><th>Game</th><th>開発中</th></tr>
+    <tr><th>読図データ</th><th>URL</th><th>後で追加</th><th>Game</th><th>放置中</th></tr>
+  </tbody>
+</table>
 
-#####[iosApps](https://github.com/yourusername/awesome-project)
-
-
-## VRシミュレーションアプリ: 
-## テーマ人狼: 
 ## その他自動化: 
 
 # その他
