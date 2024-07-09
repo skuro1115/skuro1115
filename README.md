@@ -6,7 +6,7 @@
 
 # プログラミング
 
-## 麻雀Apps: 
+## 麻雀Apps:　リリース済
 
 <table>
   <caption>機能一覧</caption>
@@ -14,12 +14,14 @@
     <tr><th>機能</th><th>URL</th><th>開発言語</th><th>ライブラリ</th></tr>
   </thead>
   <tbody>
-    <tr><th>AI_データ収集</th><th></th><th>python</th><th>selenium, numpy, bs4, pandas</th></tr>
-    <tr><th>AI_期待値計算</th><th></th><th>python</th><th>pytorch</th></tr>
-    <tr><th>AI_物体検出</th><th></th><th>python</th><th>pytorch</th></tr>
+    <tr><th>AI_データ収集</th><th>後程</th><th>python</th><th>selenium, numpy, bs4, pandas</th></tr>
+    <tr><th>AI_期待値計算</th><th>無し</th><th>python</th><th>pytorch</th></tr>
+    <tr><th>AI_物体検出</th><th>後程</th><th>python</th><th>pytorch</th></tr>
     <tr><th>iOSApps化</th>
       <th>
-        <a href="https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80ai-%E9%85%8D%E7%89%8C%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC/id1637036872">iOSApps</a>
+        <a href="https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80ai-%E9%85%8D%E7%89%8C%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC/id1637036872">
+          iOSApps
+        </a>
       <th>swift</th><th>UIKid, Storyboard</th>
     </tr>
   </tbody>
