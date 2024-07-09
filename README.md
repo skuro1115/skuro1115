@@ -2,12 +2,12 @@
 
 プロジェクト紹介
 
--麻雀AI　　　　　　　　　　　　　pytorch,  swift
--ゲーム自動化　　　　マイコン　C言語　Switch
--発注システム　　　　　yamani  　
--測量
--特許出願
--3D CAD設計
+    -麻雀AI　　　　　　　　　　　　　pytorch,  swift
+    -ゲーム自動化　　　　マイコン　C言語　Switch
+    -発注システム　　　　　yamani  　
+    -測量
+    -特許出願
+    -3D CAD設計
 
 
 
