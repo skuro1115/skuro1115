@@ -4,7 +4,7 @@
 個人やgit別アカウントで開発していたため，載せれていません。　  
 また事情によりコードを載せれない場合があります。  
 
-## 🚀 Projects
+## プログラミング
 
 ### Project 1: [Awesome Project](https://github.com/yourusername/awesome-project)
 An exciting project that solves problem X using technology Y. [Check it out!](https://github.com/yourusername/awesome-project)
@@ -14,6 +14,14 @@ A cool application that does A, B, and C. [Learn more!](https://github.com/youru
 
 ### Project 3: [Innovative Solution](https://github.com/yourusername/innovative-solution)
 An innovative solution to tackle challenge Z. [Explore the details!](https://github.com/yourusername/innovative-solution)
+
+## その他
+
+### 
+
+###
+
+
 
 ## 📫 Get in Touch
 
