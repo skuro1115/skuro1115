@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 取り急ぎ編集中です。  
-個人やgit別アカウントで開発していたため，載せれていません。　  
+個人やgit別アカウントで開発していたため，載せられていません。　  
 また事情によりコードを載せれない場合があります。  
 
 
@@ -51,8 +51,8 @@
     <tr><th>名前</th><th>URL</th><th>Repository</th><th>機能</th><th>利用状況</th></tr>
   </thead>
   <tbody>
-    <tr><th>テーマ人狼</th><th>URL</th><th>ThemeWolves</th><th>Game</th><th>開発中</th></tr>
-    <tr><th>読図データ</th><th>URL</th><th>後で追加</th><th>Game</th><th>放置中</th></tr>
+    <tr><th>テーマ人狼</th><th>後ほど</th><th>ThemeWolves</th><th>Game</th><th>開発中</th></tr>
+    <tr><th>読図データ</th><th>後ほど</th><th>後で追加</th><th>Game</th><th>放置中</th></tr>
   </tbody>
 </table>
 
