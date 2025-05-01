@@ -89,6 +89,31 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 | 商品在庫通知Bot               | Python + LINE API         | ユーザーごとに通知条件設定 |
 | イベント申込期限アラート       | Google Apps Script + LINE | カレンダー連携        |
 
+
+
+
+### 42 Tokyo での取練「公開中」
+
+C言語を用いた低レイヤプログラミングに取り組んだ。選択課程 Piscine (合格率4%) を含め、以下のような課題に対応：
+
+| リポジトリ名   | 内容                               | 備考               |
+|----------------|------------------------------------|--------------------|
+| `42r02`        | 数独などの探索アルゴリズム         | Cによる標準入出力処理 |
+| `42bsq`        | 最大正方形検出アルゴリズム         | バイナリデータ処理     |
+| `42rus2`       | 数値→文字列変換                    |                    |
+
+### その他個人・チーム開発リポジトリ
+
+| リポジトリ名                        | 内容                              | 備考                                 |
+|-------------------------------------|-----------------------------------|--------------------------------------|
+| `fueljoy`（nishipro12, skuro1115） | FuelPHPベースのECサイト          | アルバイト案件、チーム4人、時給制    |
+| `themeWolves`（skuro1115）         | テーマ人狼LINE Bot                | ゲーム仕様設計・機能実装中           |
+| `Dongle`（sajimo212）              | 位置情報共有SNSアプリ             | チーム開発、React Native + Firebase |
+| `kurodaSNS`                        | SNSアプリの個人開発版             | 機能検証・UI設計のテスト用途         |
+| `yamani`（skuro1115）             | 商品在庫確認のスクレイピングBot   | Python + Selenium、自動通知連携     |
+
+
+
 ---
 
 ## 🧪 その他プロジェクト
@@ -118,6 +143,4 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 - Twitter: ※現在非公開
 
 ---
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
 
