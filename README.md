@@ -4,94 +4,121 @@
 個人やgit別アカウントで開発していたため，載せられていません。　  
 また事情によりコードを載せれない場合があります。  
 
+## 🗂 掲載状況一覧（Publication Status）
 
-####　目次
-- [プログラミング](#プログラミング)
-  - [麻雀Apps: リリース済](#麻雀apps-リリース済)
-  - [マイコン制御: 完成](#マイコン制御)
-  - [VRシミュレーションアプリ: 研究室](#vrシミュレーションアプリ-研究室)
-  - [LINEbot](#linebot)
-  - [自動化](#自動化)
+| プロジェクト名                               | 状況           | 備考                          |
+|----------------------------------------------|----------------|-------------------------------|
+| 麻雀AIアプリ（iOS）                          | ✅ 公開中       | App Storeでリリース済        |
+| マイコン制御（Arduino）                      | 🔄 公開準備中   | コード整理中                 |
+| VRシミュレーションアプリ（研究）            | 🔒 非公開       | 研究室内Gitリポジトリ管理     |
+| LINE Bot（テーマ人狼）                       | 🔄 開発中       | 公開予定あり                 |
+| LINE Bot（読図練習Bot）                      | 💤 保守停止中   | 一時的にメンテナンス停止     |
+| 自動化Bot（在庫通知、締切通知）             | 🔒 非公開       | 受託開発・個人顧客向け        |
+| 緑茶販促プロジェクト（特許付き）            | ✅ 概要公開     | 特許情報＋活動要約を掲載     |
+| 地図測量・大会運営（オリエンテーリング）     | ✅ 概要公開     | 地図例・活動要約を掲載       |
+
+---
+
+
+#### 目次
+- [プログラミング実績](#プログラミング実績)
+  - [麻雀AIアプリ（iOSリリース済）](#麻雀aiアプリiosリリース済)
+  - [マイコン制御（Arduino + C）](#マイコン制御arduino--c)
+  - [VRシミュレーションアプリ（修士研究）](#vrシミュレーションアプリ修士研究)
+  - [LINE Bot開発](#line-bot開発)
+  - [自動化案件（受託含む）](#自動化案件受託含む)
 - [その他プロジェクト](#その他プロジェクト)
-  - [緑茶販促物開発](#緑茶販促物開発)
-  - [地図測量](#地図測量)
+  - [緑茶販促プロジェクト（特許取得）](#緑茶販促プロジェクト特許取得)
+  - [地図測量・大会運営（オリエンテーリング）](#地図測量大会運営オリエンテーリング)
 - [📫 Get in Touch](#-get-in-touch)
 
+# Welcome to My GitHub Profile
 
-# プログラミング
+ここでは、これまで取り組んできたソフトウェア開発・技術応用の実績を紹介する。アカデミックな研究から実務案件まで、幅広い開発経験を通じて実装力・設計力・課題解決力を磨いてきた。
 
-### 麻雀Apps:　リリース済
+## 🔗 リンク集
 
-<table>
-  <caption>機能一覧</caption>
-  <thead>
-    <tr><th>機能</th><th>URL</th><th>Repository</th><th>開発言語</th><th>ライブラリ</th></tr>
-  </thead>
-  <tbody>
-    <tr><th>AI_データ収集</th><th>無</th><th>後ほど</th><th>python</th><th>selenium, numpy, bs4, pandas</th></tr>
-    <tr><th>AI_期待値計算</th><th>無</th><th>公開予定なし</th><th>python</th><th>pytorch(DNN)</th></tr>
-    <tr><th>AI_物体検出</th><th>無</th><th>後ほど</th><th>python</th><th>pytorch(SSD&DNN)</th></tr>
-    <tr><th>iOSApps化</th>
-      <th>
-        <a href="https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80ai-%E9%85%8D%E7%89%8C%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC/id1637036872">
-          iOSApps
-        </a>
-      </th>
-      <th>公開予定なし</th><th>swift</th><th>UIKid, Storyboard</th>
-    </tr>
-  </tbody>
-</table>
+- GitHub: https://github.com/skuro1115
+- iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻雀ai-配牌チェッカー/id1637036872)
 
-### マイコン制御
-Arduinoへの組み込みシステム = C言語    
-コードは後程載せます。 マイコン制御のベースはコピーペーストで，ポケモンに応用しました。    
-Arduinoによってゲーム端末（任天堂Switch）を制御するプログラムです。  
-ポケモンのさまざまな攻略の自動化です。
+---
 
-### VRシミュレーションアプリ:研究室
-UnityHubにて開発中です。
-コードは載せれません。
-https://github.com/tus-watanabelab/radiationVR.git
+## 🖥 プログラミング実績
 
+### 📱 麻雀AIアプリ（iOSリリース済）
 
-## LINEbot: 
-<table>
-  <caption>Bot一覧</caption>
-  <thead>
-    <tr><th>名前</th><th>URL</th><th>Repository</th><th>機能</th><th>利用状況</th></tr>
-  </thead>
-  <tbody>
-    <tr><th>テーマ人狼</th><th>後ほど</th><th>ThemeWolves</th><th>Game</th><th>開発中</th></tr>
-    <tr><th>読図データ</th><th>後ほど</th><th>後で追加</th><th>Game</th><th>放置中</th></tr>
-  </tbody>
-</table>
+配牌時点での期待点数・和了確率をAIが評価するアプリを個人開発。最上級者10M局の対局データをもとに、初心者・中級者の戦略的意思決定を支援。
 
-### 自動化:
-python,GAS,VBA,batファイル等
-あとで記述します。
+| 機能             | 技術                             | 備考           |
+|------------------|----------------------------------|----------------|
+| AI_データ収集     | Python (selenium, bs4, pandas)  | 自動スクレイピング |
+| AI_期待値計算     | Python (PyTorch)                | DNNによる推論モデル |
+| AI_物体検出       | Python (SSD&DNN)                | 配牌認識用モデル |
+| iOSアプリ実装     | Swift (Storyboard)              | UIKitベースで開発 |
 
-# その他プロジェクト
+---
 
+### 🎮 マイコン制御（Arduino + C）
 
-### 緑茶販促物開発:[取得特許](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-115207/11/ja)
-- 3DCAD設計  
-- 食品法のクリア  
-- 県施設などへ普及  
-- 実地販売  
+任天堂Switch上のゲーム（ポケモン等）の自動操作プログラム。C言語によるファームウェアを実装し、Arduino経由で定型動作を実現。
 
-### 地図測量:
-  - 測量技術  
-  - GPS等機器取り扱い  
-  - vectorマップファイルの取り扱い  
-  - 専用CAD  
-  - コース作成[例図](https://github.com/skuro1115/skuro1115#:~:text=7%20minutes%20ago-,%E3%82%B3%E3%83%BC%E3%82%B9%E6%9A%AB%E5%AE%9A2_All.jpg,-Add%20files%20via)
+---
 
+### 🧪 VRシミュレーションアプリ（修士研究）
 
+放射線技師向け教育VRシステムをUnityにて構築。  
+安全かつ効率的な技能訓練を実現するため、デザイン思考を取り入れて現場ニーズを抽出し、視認性・操作性・教育効果に基づく設計を実施。
+
+- リポジトリ（研究室管理）: https://github.com/tus-watanabelab/radiationVR.git
+- Unity / C# / Meta Quest対応
+
+---
+
+### 🤖 LINE Bot開発
+
+| Bot名       | 概要                                  | 技術スタック                         | 状態     |
+|------------|---------------------------------------|--------------------------------------|----------|
+| テーマ人狼  | テーマ設定・役職ランダム化・投票処理 | LINE Messaging API, JavaScript      | 開発中   |
+| 読図データ  | 練習用読図問題の提示・記録管理       | LINE Messaging API, GoogleDrive API | 保守停止 |
+
+---
+
+### 🔁 自動化案件（受託含む）
+
+| タスク                         | 技術                       | 特徴                 |
+|-------------------------------|----------------------------|----------------------|
+| 商品在庫通知Bot               | Python + LINE API         | ユーザーごとに通知条件設定 |
+| イベント申込期限アラート       | Google Apps Script + LINE | カレンダー連携        |
+
+---
+
+## 🧪 その他プロジェクト
+
+### 🍵 緑茶販促プロジェクト（特許取得）
+
+食品法を考慮した設計を行い、県施設への展開と実地販売を達成。3DCADによる筐体設計、パッケージデザイン、地域ブランドとの連携を行った。
+
+- [取得特許リンク](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-115207/11/ja)
+
+---
+
+### 🗺 地図測量・大会運営（オリエンテーリング）
+
+600名超参加の国内5位規模大会にて、競技エリア責任者として以下を実施：
+
+- RTK測量、無線通信、特殊地図技術
+- CADにより3Dメッシュ・ベクトルマップ作成
+- 地権者・自治体との交渉による土地使用許可
+- [地図例](https://github.com/skuro1115/skuro1115#:~:text=7%20minutes%20ago-,%E3%82%B3%E3%83%BC%E3%82%B9%E6%9A%AB%E5%AE%9A2_All.jpg,-Add%20files%20via)
+
+---
 
 ## 📫 Get in Touch
 
-- **Email:** [yktsr1212@gmail.com](mailto:yktsr1212@gmail.com)
-- **Twitter:** [未]
+- Email: [yktsr1212@gmail.com](mailto:yktsr1212@gmail.com)
+- Twitter: ※現在非公開
+
+---
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
 
