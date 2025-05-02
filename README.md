@@ -36,6 +36,8 @@
 ## 🔗 リンク集
 
 - GitHub: https://github.com/skuro1115
+- Atcoder:
+- Paiza:
 - iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻雀ai-配牌チェッカー/id1637036872)
 
 ---
@@ -55,23 +57,7 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 | iOSアプリ実装     | Swift (Storyboard)              | UIKitベースで開発 |
 
 ---
-### アルバイト　web開発
-[概要](Intern_webDev_PHP/Overview.md)
 
----
-
-### インターン メルカリOA(まだ)
- [概要](Intern_mercari/Overview.md)
-
-
-
----
-
-### 🎮 マイコン制御（Arduino + C）　　[概要](Arduino_AutoGame/Overview.md)
-
-任天堂Switch上のゲーム（ポケモン等）の自動操作プログラム。C言語によるファームウェアを実装し、Arduino経由で定型動作を実現。
-
----
 
 ### 🧪 VRシミュレーションアプリ（修士研究） [概要](lab_Unity_VR_Simulation/Overview.md)
 
@@ -81,37 +67,29 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 - リポジトリ（研究室管理）: https://github.com/tus-watanabelab/radiationVR.git
 - Unity / C# / Meta Quest対応
 
----
-
-### 🤖 LINE Bot開発 [概要](LINEbot_Games/Overview.md)
-
-| Bot名       | 概要                                  | 技術スタック                         | 状態     |
-|------------|---------------------------------------|--------------------------------------|----------|
-| テーマ人狼  | テーマ設定・役職ランダム化・投票処理 | LINE Messaging API, JavaScript      | 開発中   |
-| 読図データ  | 練習用読図問題の提示・記録管理       | LINE Messaging API, GoogleDrive API | 保守停止 |
 
 ---
 
-### 🔁 自動化案件（受託含む）
+### アルバイト　web開発   [概要](Intern_webDev_PHP/Overview.md)
 
-| タスク                         | 技術                       | 特徴                 |
-|-------------------------------|----------------------------|----------------------|
-| 商品在庫通知Bot               | Python + LINE API         | ユーザーごとに通知条件設定 |
-| イベント申込期限アラート       | Google Apps Script + LINE | カレンダー連携        |
+---
 
+### インターン メルカリOA(まだ)   [概要](Intern_mercari/Overview.md)
 
 
 
-### 42 Tokyo での取練「公開中」
-[概要](42tokyo/Overview.md)
 
-C言語を用いた低レイヤプログラミングに取り組んだ。選択課程 Piscine (合格率4%) を含め、以下のような課題に対応：
+---
 
-| リポジトリ名   | 内容                               | 備考               |
-|----------------|------------------------------------|--------------------|
-| `42r02`        | 数独などの探索アルゴリズム         | Cによる標準入出力処理 |
-| `42bsq`        | 最大正方形検出アルゴリズム         | バイナリデータ処理     |
-| `42rus2`       | 数値→文字列変換                    |                    |
+### 42 Tokyo での学習 「編集中」  [概要](42tokyo/Overview.md)
+
+- 合格率4%の選抜課程「Piscine」を突破
+- C言語の自己解決型の課題に対応
+- テスト仕様の読解から実装、境界値テストまでを自力で設計
+- ピアレビューを通じて、コード品質（可読性・命名・責務分離）の重要性を学習
+
+---
+
 
 ### その他個人・チーム開発リポジトリ [概要](Other_Dev/Overview.md)
 
@@ -122,6 +100,37 @@ C言語を用いた低レイヤプログラミングに取り組んだ。選択�
 | `Dongle`（sajimo212）              | 位置情報共有SNSアプリ             | チーム開発、React Native + Firebase |
 | `kurodaSNS`                        | SNSアプリの個人開発版             | 機能検証・UI設計のテスト用途         |
 | `yamani`（skuro1115）             | 商品在庫確認のスクレイピングBot   | Python + Selenium、自動通知連携     |
+
+
+
+---
+
+#### 🔁 自動化案件（受託含む）
+-Python/JS/GAS/ selenium
+- LINE Messaging API
+- 要件定義から実装まで
+- 有償(3件10万円ほど)
+
+| タスク                         | 技術                       | 特徴                 |
+|-------------------------------|----------------------------|----------------------|
+| 商品在庫通知Bot               | Python + LINE API         | ユーザーごとに通知条件設定 |
+| イベント申込期限アラート       | Google Apps Script + LINE | カレンダー連携        |
+
+
+#### 🤖 LINE Bot開発 [概要](LINEbot_Games/Overview.md)
+- Python/JS/GAS
+- LINE Messaging API
+- 企画から実装まで
+
+| Bot名       | 概要                                  | 技術スタック                         | 状態     |
+|------------|---------------------------------------|--------------------------------------|----------|
+| テーマ人狼  | テーマ設定・役職ランダム化・投票処理 | LINE Messaging API, JavaScript      | 開発中   |
+| 読図データ  | 練習用読図問題の提示・記録管理       | LINE Messaging API, GoogleDrive API | 保守停止 |
+
+
+#### 🎮 マイコン制御（Arduino + C）　　[概要](Arduino_AutoGame/Overview.md)
+
+任天堂Switch上のゲーム（ポケモン等）の自動操作プログラム。C言語によるファームウェアを実装し、Arduino経由で定型動作を実現。
 
 
 
