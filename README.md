@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-取り急ぎ編集中です。  5/6までに更新します。
+取り急ぎ編集中です。 なるはやで更新します
 個人やgit別アカウントで開発していたため，まだ載せられていません。　  
 
 ## 🗂 掲載状況一覧（Publication Status）
