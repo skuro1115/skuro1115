@@ -7,7 +7,8 @@
 
 | プロジェクト名                               | 状況           | 備考                          |
 |----------------------------------------------|----------------|-------------------------------|
-| 麻雀AIアプリ（iOS）                          | mahjangiOS      | App Storeでリリース済        |
+| 麻雀AIアプリ（iOS）                          | `mahjangiOS`      | App Storeでリリース済        |
+| 42 tokyo                                 | `42 ***`  |    **複数          |
 | マイコン制御（Arduino）                      | 🔄 公開準備中   | 壊れたPCから復旧中                 |
 | VRシミュレーションアプリ（研究）            | 🔒 非公開       | 研究室内Gitリポジトリ管理     |
 | LINE Bot（テーマ人狼）                       | 🔄 開発中       | 公開予定あり                 |
@@ -32,7 +33,7 @@
 - [📫 Get in Touch](#-get-in-touch)
 
 
-## 🔗 リンク集
+## リンク集
 
 - GitHub: https://github.com/skuro1115
 - Atcoder:
@@ -41,9 +42,10 @@
 
 ---
 
-## 🖥 プログラミング実績
+## プログラミング実績
 
-### 📱 麻雀AIアプリ（iOSリリース済）　　 [概要](AI_iOSApp_majong/Overview.md)
+### 麻雀AIアプリ（iOSリリース済）　
+repo: `mahjangiOS`
 iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻雀ai-配牌チェッカー/id1637036872)
 
 配牌時点での期待点数・和了確率をAIが評価するアプリを個人開発。最上級者10M局の対局データをもとに、初心者・中級者の戦略的意思決定を支援。
@@ -58,7 +60,7 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 ---
 
 
-### 🧪 VRシミュレーションアプリ（修士研究） [概要](lab_Unity_VR_Simulation/Overview.md)
+### 🧪 VRシミュレーションアプリ（修士研究)
 
 放射線技師向け教育VRシステムをUnityにて構築。  
 安全かつ効率的な技能訓練を実現するため、デザイン思考を取り入れて現場ニーズを抽出し、視認性・操作性・教育効果に基づく設計を実施。
@@ -69,18 +71,29 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 
 ---
 
-### アルバイト　web開発   [概要](Intern_webDev_PHP/Overview.md)
+### アルバイト　ECサイト開発
+
+HTML/CSS/JS
+PHP(fuelPHP)
+mySQL
+バックエンドからフロントエンドまでを一貫して担当
+
+
 
 ---
 
-### インターン メルカリOA(まだ)   [概要](Intern_mercari/Overview.md)
+### インターン メルカリOA/Automation
 
-
+repo: `automationTest_assignment_mercari`
+https://github.com/skuro1115/automationTest_assignment_mercari
 
 
 ---
 
-### 42 Tokyo での学習 「編集中」  [概要](42tokyo/Overview.md)
+### 42 Tokyo での学習 
+
+
+repo: `42 ***`
 
 - 合格率4%の選抜課程「Piscine」を突破
 - C言語の自己解決型の課題に対応
@@ -89,6 +102,11 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 
 ---
 
+###マイコン制御（Arduino）
+
+任天堂Switchゲーム ポケモンの攻略をArduinoによるファームウェアで自動化
+
+---
 
 ### その他個人・チーム開発リポジトリ [概要](Other_Dev/Overview.md)
 
@@ -116,7 +134,7 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 | イベント申込期限アラート       | Google Apps Script + LINE | カレンダー連携        |
 
 
-#### 🤖 LINE Bot開発 [概要](LINEbot_Games/Overview.md)
+#### 🤖 LINE Bot開発
 - Python/JS/GAS
 - LINE Messaging API
 - 企画から実装まで
@@ -127,7 +145,7 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 | 読図データ  | 練習用読図問題の提示・記録管理       | LINE Messaging API, GoogleDrive API | 保守停止 |
 
 
-#### 🎮 マイコン制御（Arduino + C）　　[概要](Arduino_AutoGame/Overview.md)
+#### 🎮 マイコン制御（Arduino + C）
 
 任天堂Switch上のゲーム（ポケモン等）の自動操作プログラム。C言語によるファームウェアを実装し、Arduino経由で定型動作を実現。
 
@@ -137,7 +155,7 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 
 ## 🧪 その他プロジェクト
 
-### 🍵 緑茶販促プロジェクト（特許取得） [概要](Other_Promotion_Greentea/Overview.md)
+### 🍵 緑茶販促プロジェクト（特許取得）
 
 食品法を考慮した設計を行い、県施設への展開と実地販売を達成。3DCADによる筐体設計、パッケージデザイン、地域ブランドとの連携を行った。
 
@@ -145,7 +163,7 @@ iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻
 
 ---
 
-### 🗺 地図測量・大会運営（オリエンテーリング） [概要](Other_Orienteering/Overview.md)
+### 🗺 地図測量・大会運営（オリエンテーリング）
 
 600名超参加の国内5位規模大会にて、競技エリア責任者として以下を実施：
 
