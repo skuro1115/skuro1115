@@ -45,8 +45,8 @@
 ## プログラミング実績
 
 ### 麻雀AIアプリ（iOSリリース済）　
-repo: `mahjangiOS`
-iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻雀ai-配牌チェッカー/id1637036872)
+- repo: `mahjangiOS`   /   https://github.com/skuro1115/mahjongiOS
+- iOSアプリ: [麻雀AI 配牌チェッカー](https://apps.apple.com/jp/app/麻雀ai-配牌チェッカー/id1637036872)
 
 配牌時点での期待点数・和了確率をAIが評価するアプリを個人開発。最上級者10M局の対局データをもとに、初心者・中級者の戦略的意思決定を支援。
 
@@ -84,8 +84,8 @@ mySQL
 
 ### インターン メルカリOA/Automation
 
-repo: `automationTest_assignment_mercari`
-https://github.com/skuro1115/automationTest_assignment_mercari
+- repo: `automationTest_assignment_mercari`
+- https://github.com/skuro1115/automationTest_assignment_mercari
 
 
 ---
