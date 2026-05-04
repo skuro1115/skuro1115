@@ -1,4 +1,4 @@
-# Hi, I'm Skuro 👋
+# Hi, I'm Skuro (SHION KURODA)👋
 
 iOS・VR・AI・自動化・Web領域で、企画・設計から実装・改善まで一貫して取り組むエンジニアです。
 
